@@ -57,3 +57,20 @@ body
         width: 100%;
     }
 }
+@media screen and (min-width: 768px)and (max-width: 1023px)
+{
+    .banner
+    {
+        background-color: blue;    
+        width: 100%;
+    }
+    .sideboard
+    {
+        width: 100%;
+        background-color: yellow;
+    }
+    .content
+    {
+        width: 100%;
+    }
+}
